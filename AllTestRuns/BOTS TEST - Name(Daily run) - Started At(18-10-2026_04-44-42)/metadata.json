@@ -1,0 +1,42 @@
+{
+  "fps_average": "44.3",
+  "fps_median": "45.0",
+  "fps_diff": "0.7",
+  "app_time_average": "10334",
+  "app_time_median": "10795",
+  "app_time_diff": "-461",
+  "test_name": "Daily run",
+  "timestamp": "18-10-2026_04-44-42",
+  "has_thumbnail": true,
+  "started_by": "Nightly",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1jhSSv4Sb5nVKDMZIiWEsFbRj6ZRDStCU",
+  "github_run_id": "39077812737",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Block - room aefce975"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "11 kills - 5 killers / 6 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 43,
+  "exceptions": 3,
+  "commit_sha": "d964327dd9f196156d940a702a5882b5382d7dc8",
+  "commit_ref": "master",
+  "test_successful": true
+}

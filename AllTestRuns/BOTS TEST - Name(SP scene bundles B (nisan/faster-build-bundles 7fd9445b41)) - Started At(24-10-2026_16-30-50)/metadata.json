@@ -1,0 +1,42 @@
+{
+  "fps_average": "42.2",
+  "fps_median": "43.0",
+  "fps_diff": "0.8",
+  "app_time_average": "9351",
+  "app_time_median": "9636",
+  "app_time_diff": "-286",
+  "test_name": "SP scene bundles B (nisan/faster-build-bundles 7fd9445b41",
+  "timestamp": "24-10-2026_16-30-50",
+  "has_thumbnail": true,
+  "started_by": "Nisan",
+  "isArchived": false,
+  "drive_link": "https://drive.google.com/drive/folders/1zwVoUNYeijEF8y4TCROTTamgpwBy1QKR",
+  "github_run_id": "40097732176",
+  "checks": [
+    {
+      "id": "quest_room",
+      "label": "Quest in room",
+      "state": "pass",
+      "detail": "Block - room 98e09497"
+    },
+    {
+      "id": "players",
+      "label": "Players in room",
+      "state": "pass",
+      "detail": "6/6 joined"
+    },
+    {
+      "id": "kills",
+      "label": "Players can be killed",
+      "state": "pass",
+      "detail": "19 kills - 6 killers / 6 victims"
+    }
+  ],
+  "bots_joined": 6,
+  "bots_requested": 6,
+  "errors": 35,
+  "exceptions": 1,
+  "commit_sha": "7fd9445b4141e9d636c6a37842f6dac7f8ce56d3",
+  "commit_ref": "7fd9445b4141e9d636c6a37842f6dac7f8ce56d3",
+  "test_successful": true
+}
